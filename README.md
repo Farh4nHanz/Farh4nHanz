@@ -15,7 +15,7 @@ I'm an aspiring Backend Developer passionate about building efficient and scalab
 - **Languages:** JavaScript, Node.js
 - **Backend:** Express.js, MongoDB, REST API
 - **Tools:** Git, Docker, Redis, RabbitMQ, Nginx
-- **Frontend:** React, Tailwind CSS, Chakra UI, Framer Motion
+- **Frontend:** React, Tailwind CSS, Chakra UI, Shadcn UI, Framer Motion
 
 ## GitHub Stats
 
