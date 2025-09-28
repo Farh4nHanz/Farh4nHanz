@@ -15,11 +15,11 @@ I’m a **Frontend Developer** passionate about building clean, responsive, and 
 ## 🌐 Socials:
 <p>
 <a target="_blank" href="https://www.linkedin.com/in/syaiful-farhan-hanif-9b112a316" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<!-- <a target="_blank" href="https://www.instagram.com/farhan_hn1f" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a> -->
+<a target="_blank" href="https://www.instagram.com/farh4n_hanz" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 </p>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Farh4nHanz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Farh4nHanz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Farh4nHanz&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Farh4nHanz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
